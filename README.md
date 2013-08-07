@@ -1,4 +1,6 @@
 git-learning
 ============
 
-Learning Git/Aura
+Sample Project for Learning Git/Aura. 
+
+Purely Personal
